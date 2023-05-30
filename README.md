@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+![Banner](https://github.com/BPRarts/BPRarts/blob/main/github%20banner.png)
 <h1 align="center">Hello There!👋</h1>
 <h3 align="center">passionate frontend developer,Artist,and Designer</h3>
 
